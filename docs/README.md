@@ -78,7 +78,7 @@
 #### *Platform ->Tt* 头条管理类  
 * recorderMgr.js 头条录屏管理类  
 
-#### *Platform ->Bd* 头条管理类  
+#### *Platform ->Bd* 百度管理类  
 
 #### 各平台管理  
 * *PlatformMg.js* 平台管理控制
